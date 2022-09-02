@@ -1,0 +1,23 @@
+filepaths,labels
+test/Defective/IMG_20201114_100159.jpg,0
+test/Defective/IMG_20201114_100209.jpg,0
+test/Defective/IMG_20201114_101124.jpg,0
+test/Defective/IMG_20201114_101200.jpg,0
+test/Defective/IMG_20201114_102203.jpg,0
+test/Defective/IMG_20201114_102222.jpg,0
+test/Defective/IMG_20201114_102819.jpg,0
+test/Defective/IMG_20201114_103110.jpg,0
+test/Defective/IMG_20201211_121712.jpg,0
+test/Defective/IMG_20201211_121712_1.jpg,0
+test/Defective/IMG_20201211_121713.jpg,0
+test/Non defective/IMG_20201114_100023.jpg,1
+test/Non defective/IMG_20201114_100344.jpg,1
+test/Non defective/IMG_20201114_100358.jpg,1
+test/Non defective/IMG_20201114_101633.jpg,1
+test/Non defective/IMG_20201114_101756.jpg,1
+test/Non defective/IMG_20201114_101907.jpg,1
+test/Non defective/IMG_20201114_102253.jpg,1
+test/Non defective/IMG_20201114_102431.jpg,1
+test/Non defective/IMG_20201114_102710.jpg,1
+test/Non defective/IMG_20201114_102909.jpg,1
+test/Non defective/IMG_20201114_102945.jpg,1
